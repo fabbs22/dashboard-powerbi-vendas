@@ -29,8 +29,6 @@ A página principal do relatório traz os seguintes destaques:
 
 - **Power BI Desktop**
 - **Microsoft Excel** (para modelagem e simulação de dados)
-- **Visuals:** Cartões, Gráfico de Barras, Mapa Interativo
-- **Cores customizadas:** Paleta em tons de laranja (#FF6F00, #FFA000, #FF8A65), com fundo cinza claro (#FAFAFA) e títulos em branco (#FFFFFF)
 
 ---
 
@@ -44,25 +42,3 @@ A página principal do relatório traz os seguintes destaques:
 
 - **Página 1 – Visão Geral:** KPIs principais, mapa de faturamento por continente, gráfico de vendas por marca
 
----
-
-## 📎 Como usar
-
-1. Baixe os arquivos `.pbix` e `.xlsx`.
-2. Abra o arquivo `.pbix` no Power BI Desktop.
-3. Atualize o caminho da fonte de dados se necessário.
-4. Explore, filtre e analise!
-
----
-
-## 👨‍💼 Autor
-
-- **Seu Nome Aqui**
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-- [GitHub](https://github.com/seuusuario)
-
----
-
-## ⚠️ Observações
-
-> Este é um projeto de portfólio com dados fictícios simulados para fins educacionais e demonstrativos.
