@@ -1,4 +1,3 @@
-
 # 📊 Dashboard de Vendas – Power BI
 
 Este projeto apresenta uma análise completa de dados de vendas globais utilizando o **Power BI**, com visual moderno, responsivo e insights acionáveis.
